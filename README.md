@@ -1,6 +1,8 @@
 # FINANCE-PROJECT
 This repository contains key insights derived from analysis of finance data, providing valuable information for decision-making and strategic planning in the banking sector.
 
+PROJECT LINK OF EXCEL: https://docs.google.com/spreadsheets/d/1du2eWM4UQt5DMOY6YhrDDQ9b8uYBdBa6/edit?usp=drive_link&ouid=105322565497604585898&rtpof=true&sd=true
+
 Analysis of payment statistics based on weekdays versus weekends provides insights into customer spending behavior patterns and helps optimize banking services and promotions.
 
 Quantifying the number of transactions with a top review score and payment made via credit card offers insights into the correlation between payment methods and customer satisfaction in financial transactions.
